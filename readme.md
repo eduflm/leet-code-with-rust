@@ -1,0 +1,1 @@
+Warning: Bad rust code ahead. I'm taking a look at Rust by doing some leet code. Expect bad code in this repo xoxo 
